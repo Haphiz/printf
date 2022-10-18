@@ -1,2 +1,1 @@
-# printf
-ALX C-printf Project
+C-printf Team Project
